@@ -5,19 +5,22 @@
 **Version:** 1.0  
 **Author:** Cameron Taylor 
 **Date:** 4/19/2026
-**Status:** `Planning` | `In Progress` | `Complete`
+**Status:** `Planning`
 
 ---
 
 ## 1. Problem Statement
 
-_What problem does this solve? Why does it need to exist?_ _Keep it to 2–4 sentences. If you can't explain the problem simply, you don't understand it well enough yet._
+This application exists to collect data about the conditions of a trail while on a hike. 
+The analysis of this data will provide valuable insights about the conditions of the trail.
 
 ---
 
 ## 2. Goals
 
 _What does success look like? Be specific._
+The end goal of this project should be an indepedent device that wirelessely transmits condition 
+data back to a base station from anywhere in the world.
 
 **Primary goals** — the project fails if these aren't met:
 
